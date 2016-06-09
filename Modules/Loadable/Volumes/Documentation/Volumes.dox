@@ -1,6 +1,6 @@
 /**
 \defgroup Slicer_QtModules_Volumes Volumes
 \ingroup Slicer_QtModules
-This module allows to load, save and adjust display parameters of volume data.
+This module allows to load, save and adjust display parameters of volume data. \link http://wiki.slicer.org/slicerWiki/index.php/Documentation/Nightly/Modules/Volumes Click here \endlink for the wiki documentation of this module
 
 */

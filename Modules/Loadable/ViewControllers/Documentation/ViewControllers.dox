@@ -1,0 +1,6 @@
+/**
+\defgroup Slicer_QtModules_ViewControllers View Controllers
+\ingroup Slicer_QtModules
+The View Controllers module provides access to nodes controlling multiple views within a single panel. \link http://wiki.slicer.org/slicerWiki/index.php/Documentation/Nightly/Modules/ViewControllers Click here \endlink for the wiki documentation of this module.
+
+*/

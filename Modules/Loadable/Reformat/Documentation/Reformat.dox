@@ -1,6 +1,6 @@
 /**
 \defgroup Slicer_QtModules_Reformat Reformat
 \ingroup Slicer_QtModules
-This module allows adjust and display parameters of a slice
+This module is used for changing the slice properties. \link http://wiki.slicer.org/slicerWiki/index.php/Documentation/Nightly/Modules/Reformat Click here \endlink for the wiki documentation of this module.
 
 */

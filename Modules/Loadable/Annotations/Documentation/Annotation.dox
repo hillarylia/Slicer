@@ -1,6 +1,6 @@
 /**
 \defgroup Slicer_QtModules_Annotation Annotation
 \ingroup Slicer_QtModules
-This module allows to ...
+Create and edit annotations, supplementary information associated with a scene. Currently supported annotations are rulers and regions of interest (ROIs). \link http://wiki.slicer.org/slicerWiki/index.php/Documentation/Nightly/Modules/Annotations Click here \endlink for the wiki documentation of this module.
 
 */

@@ -1,6 +1,7 @@
 /**
 \defgroup Slicer_QtModules_SceneViews SceneViews
 \ingroup Slicer_QtModules
-This module allows to ...
+
+Scene views are a convenience tool for organizing multiple 'live views' of the data in your scene. You can create any number of views and control parameters such as the 3D view, model visibility, window layout, and other parameters. This can be used to set up a series of predefined starting points for looking at portions of your data in detail. \link http://wiki.slicer.org/slicerWiki/index.php/Documentation/Nightly/Modules/SceneViews Click here \endlink for the wiki documentation of this module.
 
 */

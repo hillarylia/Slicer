@@ -1,0 +1,7 @@
+/**
+\defgroup Slicer_QtModules_Units Units
+\ingroup Slicer_QtModules
+
+The Units module is a loadable module that allows the application to have a notion of unit. A unit is defined by its quantity and its name. \link http://wiki.slicer.org/slicerWiki/index.php/Documentation/Nightly/Developers/Units Click here \endlink for the wiki documentation of this module.
+
+*/

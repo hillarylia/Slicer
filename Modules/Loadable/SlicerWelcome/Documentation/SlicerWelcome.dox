@@ -1,6 +1,6 @@
 /**
 \defgroup Slicer_QtModules_SlicerWelcome SlicerWelcome
 \ingroup Slicer_QtModules
-This module is intended as a welcome screen and basic overview of the Slicer software.
+This module is intended as a welcome screen and basic overview of the Slicer software. It is provided to introduce new users to Slicer's basic functionality, and to provide pointers to additional useful resources. \link http://wiki.slicer.org/slicerWiki/index.php/Documentation/Nightly/Modules/Welcome Click here \endlink for the wiki documentation of this module.
 
 */

@@ -1,0 +1,7 @@
+/**
+\defgroup Slicer_QtModules_Colors Colors
+\ingroup Slicer_QtModules
+The Colors Module manages MRML color nodes. Color nodes can contain discrete color look up tables or procedurally defined color transfer functions. Color look up tables are used by mappers to translate between an integer and a color value for display of models and volumes. Slicer supports three kinds of tables: Continuous scales, like the greyscale table; Parametric tables, defined by an equation, such as the fMRIPA table and; Discrete tables, such as those read in from a file. 
+\link http://wiki.slicer.org/slicerWiki/index.php/Documentation/Nightly/Modules/Colors Click here \endlink for the wiki documentation of this module.
+
+*/

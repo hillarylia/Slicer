@@ -1,6 +1,6 @@
 /**
 \defgroup Slicer_QtModules_Cameras Cameras
 \ingroup Slicer_QtModules
-This module manages 3D views and cameras nodes.
+This module manages 3D views and cameras nodes.  \link http://wiki.slicer.org/slicerWiki/index.php/Documentation/Nightly/Modules/Cameras Click here \endlink for the wiki documentation of this module.
 
 */

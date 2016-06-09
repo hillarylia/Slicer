@@ -1,0 +1,14 @@
+/**
+\defgroup Slicer_QtModules_SubjectHierarchy Subject Hierarchy
+\ingroup Slicer_QtModules
+
+The Subject hierarchy module acts as a central data-organizing point in Slicer.
+
+It is deactivated by default, so when the user enters it the first time, it asks whether subject hierarchy should be created for the data loaded in Slicer. Clicking No leaves subject hierarchy unused, clicking Yes adds the nodes only once to subject hierarchy, and clicking Yes to All enables automtic creation of subject hierarchy nodes from all loaded data objects.
+
+DICOM data is automatically added as patient-study-series hierarchy. Non-DICOM data can be parsed if loaded from a local directory structure, or can be manually organized in tree structure by creating DICOM-like hierarchy or Folder nodes.
+
+Subject hierarchy nodes provide features for the underlying data nodes, including cloning, bulk transforming, bulk show/hide, type-specific features, and basic node operations such as delete or rename.
+ \link http://wiki.slicer.org/slicerWiki/index.php/Documentation/Nightly/Modules/SubjectHierarchy Click here \endlink for the wiki documentation of this module.
+
+*/
